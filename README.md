@@ -1,6 +1,7 @@
 # z2-stuff  
 mostly character hacks to be usable both for rando and playing the game  
 the changes are tile and palette data only, to make it the most compatible  
+(some of the sprites were added to the randomizer later on, though missing extra features)  
   
 Link (FDS) - W A I T  
 Stalfos - the no-rando version changes two small things but otherwise is the same  
