@@ -16,3 +16,7 @@ Simon - From Castlevania
 Some sprites (Samus, Lucia) use an unique palette at 140bf for the ending. (Although it is shared by the very first room of GP but it's something incredibly minor)  
   
 Don't play pyramid
+
+## metroid houses
+
+palaces only, metroided
