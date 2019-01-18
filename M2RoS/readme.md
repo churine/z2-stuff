@@ -15,4 +15,8 @@ Send feedback at [twitch.tv/chibiplan](https://twitch.tv/chibiplan) or Plan#8004
 * samus turns pink on the entrance of great palace
 
 ## changelog
+v0.92
+* shield is now called varia
+** other minor text changes
+* changed some red backgrounds to have a better contrast (and be easier on the eyes)
 v0.9 first release version
