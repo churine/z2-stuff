@@ -24,6 +24,6 @@ Don't play pyramid
 replaces the palaces graphics with ones from metroid. See m2ros for a full graphics hack
 
 ## not really z2
-a zelda 1 full graphics hack
+a zelda 1 full graphics hack based on pokemon crystal
 ## m2ros
-a zelda 2 full graphics hack
+a zelda 2 full graphics hack based on metroid 1 and 2
