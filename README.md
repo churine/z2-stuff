@@ -1,8 +1,3 @@
-## not really z2
-a zelda 1 graphics romhack
-## m2ros
-a zelda 2 graphics romhack
-
 # z2-stuff  
 mostly character hacks to be usable both for rando and playing the game  
 the changes are tile and palette data only, to make it the most compatible  
@@ -26,4 +21,9 @@ Don't play pyramid
 
 ## metroid houses
 
-replaces the palaces graphics with ones from metroid. See "Metroid 2 Return of Samus" for a full graphics hack
+replaces the palaces graphics with ones from metroid. See m2ros for a full graphics hack
+
+## not really z2
+a zelda 1 full graphics hack
+## m2ros
+a zelda 2 full graphics hack
